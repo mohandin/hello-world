@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T19:28:06.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.9.2" etag="9Ku4tHKNM76l3yquE1X5" type="github"><diagram id="xkbQ1Bs2xLJokvP2WdEK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-05T19:39:06.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="mVVSexJ7z4lC1M7-Ltcn" version="13.9.2" type="github">
+  <diagram id="xkbQ1Bs2xLJokvP2WdEK" name="Page-1">
+    <mxGraphModel dx="2523" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-1" value="To Do" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-2" value="Blocked" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-3" value="In Progress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-4" value="Ready for Test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-5" value="In Test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-6" value="Review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-7" value="PO Approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-8" value="Done" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-9" value="QA" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-10" value="Development" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-11" value="Product" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-12" value="Moves the story to test and assigns QA." style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-13" value="Code is written to meet the requirements highlighted in the story." style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-14" value="Picks up the story for test." style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-15" value="Manual tests are executed. UI tests are written and executed to satisfy the acceptance criteria." style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="680" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-16" value="Manual tests are identified." style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RmXKydPQDK2V4iQ8NIrv-17" value="Submit PR and review the code with the team. Once PR is approved merge the code to Develop and submit the app to TestFlight." style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="830" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
